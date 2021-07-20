@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4377335577752971681
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300907620191328557, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6037532631164381829, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: productPrice
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 6037532631164381829, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: isBought
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6037532631164381829, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: productName
+      value: Fasola
+      objectReference: {fileID: 0}
+    - target: {fileID: 6037532631164381829, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: productSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a1bb6eb007060c4fa88b35b17607b05,
+        type: 3}
+    - target: {fileID: 7100946922912232788, guid: 1c415116db813934e8fe3d22897474af,
+        type: 3}
+      propertyPath: m_Name
+      value: Nasiona.2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1c415116db813934e8fe3d22897474af, type: 3}
